@@ -16,4 +16,3 @@ buildNumber.properties
 .idea/*
 WSinitClient.iml
 out/*
-src/main/java/mypackage/*.class
